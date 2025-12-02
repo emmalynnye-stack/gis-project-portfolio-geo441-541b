@@ -15,7 +15,7 @@ Author: [Emmalyn Nye]
 
 ## Raster Data Visualization
 
-- [Maps of Oxford, OH topography](https://github.com/emmalynnye-stack/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/raster-data-visualization.ipynb)
+- [Maps of Oxford, OH topography](https://github.com/emmalynnye-stack/gis-project-portfolio-geo441-541b/blob/main/raster-data-visualization/oh-topography.ipynb)
 
 ## Spatial Data Analysis
-- [Maps of John Snow's Cholera Outbreak Invesitation in Soho](https://github.com/emmalynnye-stack/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/spatial-data-analysis.ipynb)
+- [Maps of John Snow's Cholera Outbreak Invesitation in Soho](https://github.com/emmalynnye-stack/gis-project-portfolio-geo441-541b/blob/main/spatial-data-analysis/cholera-outbreak.ipynb)
